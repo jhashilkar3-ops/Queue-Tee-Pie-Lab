@@ -1,5 +1,5 @@
-#include <string>
+#include "hello.hpp"
 
 std::string hello() {
-   return "Hello World!";
+    return "Queue-Tee Pie — ready to go!";
 }
